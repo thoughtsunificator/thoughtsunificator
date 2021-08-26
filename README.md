@@ -2,6 +2,6 @@
 
 npmjs: https://www.npmjs.com/~thoughtsunificator
 
-#### A few articles..
+#### Some random links..
 
 https://news.ycombinator.com/item?id=23369152
