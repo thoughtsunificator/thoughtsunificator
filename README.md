@@ -1,7 +1,5 @@
 ### Saluto 👋
 
-I am currently cleaning up some of my projets and introducing new Github workflow to make the release of a new version easier on me :)
-
 npmjs: https://www.npmjs.com/~thoughtsunificator
 
 AMO: https://addons.mozilla.org/en-US/firefox/user/15968837/
