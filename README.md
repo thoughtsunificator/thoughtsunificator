@@ -1,5 +1,10 @@
 ### Saluto 👋
 
+I do web and I very much like researching about web.
+
+
+#### Links
+
 npmjs
 
 https://www.npmjs.com/~thoughtsunificator
