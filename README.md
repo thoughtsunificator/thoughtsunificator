@@ -1,4 +1,4 @@
-# About myself 👋
+# About myself
 
 I do web and I very much like researching about it too.
 
