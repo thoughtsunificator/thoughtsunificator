@@ -1,7 +1,6 @@
 # About myself
 
-I do web and I very much like researching about it too.
-
+I do web for the most part.
 
 ## Links
 
