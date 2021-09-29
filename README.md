@@ -1,4 +1,4 @@
-I make libraries and tools in JavaScript.
+I make libraries and tools for front-end web development.
 
 ### Links
 
