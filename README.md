@@ -1,5 +1,3 @@
-I make libraries and tools for front-end web development.
-
 ### Links
 
 - [npmjs](https://www.npmjs.com/~thoughtsunificator)
