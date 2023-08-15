@@ -7,3 +7,4 @@
 &nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;[Snapcraft](https://snapstats.org/publishers/thoughtsunificator)
 &nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;[OpenUserJS](https://openuserjs.org/users/thoughtsunificator)
 &nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;[codewars](https://www.codewars.com/users/romain_lebesle)
+&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;[JSON Resume](https://registry.jsonresume.org/thoughtsunificator)
